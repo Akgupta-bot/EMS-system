@@ -36,7 +36,7 @@ const Login = () => {
                type="password"
                 required className=" outline-none border-2 rounded-full font-medium text-white mt-5 py-3 px-8 placeholder:text-gray-400 bg-transparent border-amber-600"
                 placeholder="Enter password"></input>
-                <button className="active:hover:bg-amber-700 cursor-pointer font-semibold rounded-full text-white bg-amber-600 mt-5 py-3 px-8 active:scale-95">Log in</button>
+                <button className="active:bg-amber-700 cursor-pointer font-semibold rounded-full text-white bg-amber-600 mt-5 py-3 px-8 active:scale-95">Log in</button>
             </form>
         </div>
       
