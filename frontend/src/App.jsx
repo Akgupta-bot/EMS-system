@@ -1,9 +1,10 @@
-import React from 'react'
+
+import Login from './components/Auth/Login.jsx'
 
 const App = () => {
   return (
     <div>
-      <login/>
+      <Login/>
     </div>
   )
 }
